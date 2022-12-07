@@ -1,6 +1,7 @@
-# hotel
+# Design d'une application de réservation d'hôtels
 
-A new Flutter project.
+Afin de découvrir les spécificités de Flutter, j'ai suivi le tutoriel pour concevoir cette application.
+Cela m’a permis d'avoir une première approche de ce framework.
 
 ## Getting Started
 
